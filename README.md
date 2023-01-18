@@ -1,4 +1,5 @@
-# 0x19. C - Stacks, Queues - LIFO, FIFO
+
+# 0x19. C - Stacks, Queues - LIFO, FIFO
 
 ## Description
 
@@ -185,5 +186,5 @@ Monty Files:
 -   The rotr opcode
 -   The opcode rotr rotates the stack to the bottom.
 
-## Autors
-[Olusegun Emmanuel](https://github.com/codewithsegnet/monty/) || [Christina Adegbaju](https://github.com/christinaty/monty/)
+## Authors
+[Clement Kariku](https://github.com/titanckw/monty/)
